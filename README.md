@@ -20,6 +20,10 @@
 - [Practical Object-Oriented Design in Ruby](http://it-ebooks.info/book/4606/)  
 *Ruby's widely admired ease of use has a downside: Too many Ruby and Rails applications have been created without concern for their long-term maintenance or evolution. The Web is awash in Ruby code that is now virtually impossible to change or extend. This text helps you solve that problem by using powerful real-world object-oriented design techniques, which it thoroughly explains using simple and practical Ruby examples.*
 
+**Miscellaneous**
+- ["Ruby" - David Rawlings & Gillian Welch](https://youtu.be/GcBfCsJW9Ts)  
+*NPR Tiny Desk Concert*
+
 
 ## Rails
 
