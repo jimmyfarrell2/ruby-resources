@@ -21,8 +21,8 @@
 *Written by Sandi Metz, it explains object-oriented design (OOD) using realistic, understandable examples. POODR is a practical, readable introduction to how OOD can lower your costs and improve your applications.*
 
 **Miscellaneous**
-- ["Ruby" - David Rawlings & Gillian Welch](https://youtu.be/GcBfCsJW9Ts)  
-*NPR Tiny Desk Concert*
+- ["Ruby" - David Rawlings & Gillian Welch](https://youtu.be/aWbJguI0BqM)  
+*Live on KEXP*
 
 
 ## Rails
